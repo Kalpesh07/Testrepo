@@ -9,4 +9,5 @@ echo '6th line';
 echo '7th line';
 echo '8th line';
 echo '9th line';
+echo '10th line'
 ?>
